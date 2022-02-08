@@ -184,5 +184,6 @@ footer p {
   form select, form input {
     flex-wrap: wrap;
     max-width: 130px;
+    justify-content: center;
   }
 }
