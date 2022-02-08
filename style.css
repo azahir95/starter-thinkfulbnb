@@ -175,7 +175,7 @@ footer p {
   
 }
 
-@media all and (min-width: 800px) and (max-width: 1000px) {
+@media all and (min-width: 500px) and (max-width: 1000px) {
   form div {
     display: flex;
     flex-wrap: wrap;
